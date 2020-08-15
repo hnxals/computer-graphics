@@ -2,6 +2,8 @@
 the assignment of computer graphics
 
 The Lab1 folder actually includes 5 labs. 
+The lab taught me how the computer graphics API works.
+We cannot use any existing opengl API other than the drawline in all the labs.
 
 
 1. Lab 1 needs us to read nodes in .d file, then use drawline api to draw the shape of model.
