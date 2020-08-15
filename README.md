@@ -26,4 +26,4 @@ I remember The phong shading is very complex, cost me much time to do this lab. 
 5. We can do any think in lab 5. I choosed to generate random textures by using perlin noise. 
 The project will save the RGB info into a 500X500 BMP file which named "texture.bmp", then use my previous lab-4 to read and show the texture on the house.
 ![image](https://github.com/hnxals/computer-graphics/blob/master/Images%20of%20readme/Lab5-1.png)
-![image](https://github.com/hnxals/computer-graphics/blob/master/Images%20of%20readme/Lab5-2.png)
+![image](https://github.com/hnxals/computer-graphics/blob/master/Images%20of%20readme/Lab5-2.bmp)
