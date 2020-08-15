@@ -1,5 +1,5 @@
 # computer-graphics
-the assignment of computer graphics
+the assignments of computer graphics
 
 The Lab1 folder actually includes 5 labs.   
 The lab taught me how the computer graphics API works.  
